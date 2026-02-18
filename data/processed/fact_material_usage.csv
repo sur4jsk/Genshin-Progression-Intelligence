@@ -1,0 +1,1009 @@
+character_id,material_type,material_name
+1,ascension_material,Divining Scroll
+1,talent_material,Divining Scroll
+1,talent_book_1-2,Teachings of Ballad
+1,talent_book_2-3,Guide to Ballad
+1,talent_book_3-4,Guide to Ballad
+1,talent_book_4-5,Guide to Ballad
+1,talent_book_5-6,Guide to Ballad
+1,talent_book_6-7,Philosophies of Ballad
+1,talent_book_7-8,Philosophies of Ballad
+1,talent_book_8-9,Philosophies of Ballad
+1,talent_book_9-10,Philosophies of Ballad
+1,talent_weekly,Tusk of Monoceros Caeli
+2,ascension_material,Faded Red Satin
+2,talent_material,Faded Red Satin
+2,talent_book_1-2,Teachings of Ingenuity
+2,talent_book_2-3,Guide to Ingenuity
+2,talent_book_3-4,Guide to Ingenuity
+2,talent_book_4-5,Guide to Ingenuity
+2,talent_book_5-6,Guide to Ingenuity
+2,talent_book_6-7,Philosophies of Ingenuity
+2,talent_book_7-8,Philosophies of Ingenuity
+2,talent_book_8-9,Philosophies of Ingenuity
+2,talent_book_9-10,Philosophies of Ingenuity
+2,talent_weekly,Mirror of Mushin
+3,ascension_material,Spectral Husk
+3,talent_material,Spectral Husk
+3,talent_book_1-2,Teachings of Freedom
+3,talent_book_2-3,Guide to Freedom
+3,talent_book_3-4,Guide to Freedom
+3,talent_book_4-5,Guide to Freedom
+3,talent_book_5-6,Guide to Freedom
+3,talent_book_6-7,Philosophies of Freedom
+3,talent_book_7-8,Philosophies of Freedom
+3,talent_book_8-9,Philosophies of Freedom
+3,talent_book_9-10,Philosophies of Freedom
+3,talent_weekly,Molten Moment
+4,ascension_material,Firm Arrowhead
+4,talent_material,Firm Arrowhead
+4,talent_book_1-2,Teachings of Freedom
+4,talent_book_2-3,Guide to Freedom
+4,talent_book_3-4,Guide to Freedom
+4,talent_book_4-5,Guide to Freedom
+4,talent_book_5-6,Guide to Freedom
+4,talent_book_6-7,Philosophies of Freedom
+4,talent_book_7-8,Philosophies of Freedom
+4,talent_book_8-9,Philosophies of Freedom
+4,talent_book_9-10,Philosophies of Freedom
+4,talent_weekly,Dvalin's Sigh
+5,ascension_material,Slime Condensate
+5,talent_material,Slime Condensate
+5,talent_book_1-2,Teachings of Elegance
+5,talent_book_2-3,Guide to Elegance
+5,talent_book_3-4,Guide to Elegance
+5,talent_book_4-5,Guide to Elegance
+5,talent_book_5-6,Guide to Elegance
+5,talent_book_6-7,Philosophies of Elegance
+5,talent_book_7-8,Philosophies of Elegance
+5,talent_book_8-9,Philosophies of Elegance
+5,talent_book_9-10,Philosophies of Elegance
+5,talent_weekly,Ashen Heart
+6,ascension_material,Fungal Spores
+6,talent_material,Fungal Spores
+6,talent_book_1-2,Teachings of Gold
+6,talent_book_2-3,Guide to Gold
+6,talent_book_3-4,Guide to Gold
+6,talent_book_4-5,Guide to Gold
+6,talent_book_5-6,Guide to Gold
+6,talent_book_6-7,Philosophies of Gold
+6,talent_book_7-8,Philosophies of Gold
+6,talent_book_8-9,Philosophies of Gold
+6,talent_book_9-10,Philosophies of Gold
+6,talent_weekly,Worldspan Fern
+7,ascension_material,Divining Scroll
+7,talent_material,Divining Scroll
+7,talent_book_1-2,Teachings of Freedom
+7,talent_book_2-3,Guide to Freedom
+7,talent_book_3-4,Guide to Freedom
+7,talent_book_4-5,Guide to Freedom
+7,talent_book_5-6,Guide to Freedom
+7,talent_book_6-7,Philosophies of Freedom
+7,talent_book_7-8,Philosophies of Freedom
+7,talent_book_8-9,Philosophies of Freedom
+7,talent_book_9-10,Philosophies of Freedom
+7,talent_weekly,Ring of Boreas
+8,ascension_material,Treasure Hoarder Insignia
+8,talent_material,Treasure Hoarder Insignia
+8,talent_book_1-2,Teachings of Gold
+8,talent_book_2-3,Guide to Gold
+8,talent_book_3-4,Guide to Gold
+8,talent_book_4-5,Guide to Gold
+8,talent_book_5-6,Guide to Gold
+8,talent_book_6-7,Philosophies of Gold
+8,talent_book_7-8,Philosophies of Gold
+8,talent_book_8-9,Philosophies of Gold
+8,talent_book_9-10,Philosophies of Gold
+8,talent_weekly,Dvalin's Sigh
+9,ascension_material,Treasure Hoarder Insignia
+9,talent_material,Treasure Hoarder Insignia
+9,talent_book_1-2,Teachings of Resistance
+9,talent_book_2-3,Guide to Resistance
+9,talent_book_3-4,Guide to Resistance
+9,talent_book_4-5,Guide to Resistance
+9,talent_book_5-6,Guide to Resistance
+9,talent_book_6-7,Philosophies of Resistance
+9,talent_book_7-8,Philosophies of Resistance
+9,talent_book_8-9,Philosophies of Resistance
+9,talent_book_9-10,Philosophies of Resistance
+9,talent_weekly,Dvalin's Plume
+10,ascension_material,Faded Red Satin
+10,talent_material,Faded Red Satin
+10,talent_book_1-2,Teachings of Admonition
+10,talent_book_2-3,Guide to Admonition
+10,talent_book_3-4,Guide to Admonition
+10,talent_book_4-5,Guide to Admonition
+10,talent_book_5-6,Guide to Admonition
+10,talent_book_6-7,Philosophies of Admonition
+10,talent_book_7-8,Philosophies of Admonition
+10,talent_book_8-9,Philosophies of Admonition
+10,talent_book_9-10,Philosophies of Admonition
+10,talent_weekly,Tears of the Calamitous God
+11,ascension_material,Meshing Gear
+11,talent_material,Meshing Gear
+11,talent_book_1-2,Teachings of Justice
+11,talent_book_2-3,Guide to Justice
+11,talent_book_3-4,Guide to Justice
+11,talent_book_4-5,Guide to Justice
+11,talent_book_5-6,Guide to Justice
+11,talent_book_6-7,Philosophies of Justice
+11,talent_book_7-8,Philosophies of Justice
+11,talent_book_8-9,Philosophies of Justice
+11,talent_book_9-10,Philosophies of Justice
+11,talent_weekly,Lightless Silk String
+12,ascension_material,Damaged Mask
+12,talent_material,Damaged Mask
+12,talent_book_1-2,Teachings of Diligence
+12,talent_book_2-3,Guide to Diligence
+12,talent_book_3-4,Guide to Diligence
+12,talent_book_4-5,Guide to Diligence
+12,talent_book_5-6,Guide to Diligence
+12,talent_book_6-7,Philosophies of Diligence
+12,talent_book_7-8,Philosophies of Diligence
+12,talent_book_8-9,Philosophies of Diligence
+12,talent_book_9-10,Philosophies of Diligence
+12,talent_weekly,Dvalin's Sigh
+13,ascension_material,Firm Arrowhead
+13,talent_material,Firm Arrowhead
+13,talent_book_1-2,Teachings of Praxis
+13,talent_book_2-3,Guide to Praxis
+13,talent_book_3-4,Guide to Praxis
+13,talent_book_4-5,Guide to Praxis
+13,talent_book_5-6,Guide to Praxis
+13,talent_book_6-7,Philosophies of Praxis
+13,talent_book_7-8,Philosophies of Praxis
+13,talent_book_8-9,Philosophies of Praxis
+13,talent_book_9-10,Philosophies of Praxis
+13,talent_weekly,Tears of the Calamitous God
+14,ascension_material,Divining Scroll
+14,talent_material,Divining Scroll
+14,talent_book_1-2,Teachings of Admonition
+14,talent_book_2-3,Guide to Admonition
+14,talent_book_3-4,Guide to Admonition
+14,talent_book_4-5,Guide to Admonition
+14,talent_book_5-6,Guide to Admonition
+14,talent_book_6-7,Philosophies of Admonition
+14,talent_book_7-8,Philosophies of Admonition
+14,talent_book_8-9,Philosophies of Admonition
+14,talent_book_9-10,Philosophies of Admonition
+14,talent_weekly,Mudra of the Malefic General
+15,ascension_material,Faded Red Satin
+15,talent_material,Faded Red Satin
+15,talent_book_1-2,Teachings of Praxis
+15,talent_book_2-3,Guide to Praxis
+15,talent_book_3-4,Guide to Praxis
+15,talent_book_4-5,Guide to Praxis
+15,talent_book_5-6,Guide to Praxis
+15,talent_book_6-7,Philosophies of Praxis
+15,talent_book_7-8,Philosophies of Praxis
+15,talent_book_8-9,Philosophies of Praxis
+15,talent_book_9-10,Philosophies of Praxis
+15,talent_weekly,Puppet Strings
+16,ascension_material,Recruit's Insignia
+16,talent_material,Recruit's Insignia
+16,talent_book_1-2,Teachings of Resistance
+16,talent_book_2-3,Guide to Resistance
+16,talent_book_3-4,Guide to Resistance
+16,talent_book_4-5,Guide to Resistance
+16,talent_book_5-6,Guide to Resistance
+16,talent_book_6-7,Philosophies of Resistance
+16,talent_book_7-8,Philosophies of Resistance
+16,talent_book_8-9,Philosophies of Resistance
+16,talent_book_9-10,Philosophies of Resistance
+16,talent_weekly,Dvalin's Plume
+17,ascension_material,Firm Arrowhead
+17,talent_material,Firm Arrowhead
+17,talent_book_1-2,Teachings of Freedom
+17,talent_book_2-3,Guide to Freedom
+17,talent_book_3-4,Guide to Freedom
+17,talent_book_4-5,Guide to Freedom
+17,talent_book_5-6,Guide to Freedom
+17,talent_book_6-7,Philosophies of Freedom
+17,talent_book_7-8,Philosophies of Freedom
+17,talent_book_8-9,Philosophies of Freedom
+17,talent_book_9-10,Philosophies of Freedom
+17,talent_weekly,Shard of a Foul Legacy
+18,ascension_material,Faded Red Satin
+18,talent_material,Faded Red Satin
+18,talent_book_1-2,Teachings of Ingenuity
+18,talent_book_2-3,Guide to Ingenuity
+18,talent_book_3-4,Guide to Ingenuity
+18,talent_book_4-5,Guide to Ingenuity
+18,talent_book_5-6,Guide to Ingenuity
+18,talent_book_6-7,Philosophies of Ingenuity
+18,talent_book_7-8,Philosophies of Ingenuity
+18,talent_book_8-9,Philosophies of Ingenuity
+18,talent_book_9-10,Philosophies of Ingenuity
+18,talent_weekly,Bloodjade Branch
+19,ascension_material,Damaged Mask
+19,talent_material,Damaged Mask
+19,talent_book_1-2,Teachings of Resistance
+19,talent_book_2-3,Guide to Resistance
+19,talent_book_3-4,Guide to Resistance
+19,talent_book_4-5,Guide to Resistance
+19,talent_book_5-6,Guide to Resistance
+19,talent_book_6-7,Philosophies of Resistance
+19,talent_book_7-8,Philosophies of Resistance
+19,talent_book_8-9,Philosophies of Resistance
+19,talent_book_9-10,Philosophies of Resistance
+19,talent_weekly,Dragon Lord's Crown
+20,ascension_material,Faded Red Satin
+20,talent_material,Faded Red Satin
+20,talent_book_1-2,Teachings of Admonition
+20,talent_book_2-3,Guide to Admonition
+20,talent_book_3-4,Guide to Admonition
+20,talent_book_4-5,Guide to Admonition
+20,talent_book_5-6,Guide to Admonition
+20,talent_book_6-7,Philosophies of Admonition
+20,talent_book_7-8,Philosophies of Admonition
+20,talent_book_8-9,Philosophies of Admonition
+20,talent_book_9-10,Philosophies of Admonition
+20,talent_weekly,Puppet Strings
+21,ascension_material,Firm Arrowhead
+21,talent_material,Firm Arrowhead
+21,talent_book_1-2,Teachings of Ballad
+21,talent_book_2-3,Guide to Ballad
+21,talent_book_3-4,Guide to Ballad
+21,talent_book_4-5,Guide to Ballad
+21,talent_book_5-6,Guide to Ballad
+21,talent_book_6-7,Philosophies of Ballad
+21,talent_book_7-8,Philosophies of Ballad
+21,talent_book_8-9,Philosophies of Ballad
+21,talent_book_9-10,Philosophies of Ballad
+21,talent_weekly,Spirit Locket of Boreas
+22,ascension_material,Transoceanic Pearl
+22,talent_material,Transoceanic Pearl
+22,talent_book_1-2,Teachings of Justice
+22,talent_book_2-3,Guide to Justice
+22,talent_book_3-4,Guide to Justice
+22,talent_book_4-5,Guide to Justice
+22,talent_book_5-6,Guide to Justice
+22,talent_book_6-7,Philosophies of Justice
+22,talent_book_7-8,Philosophies of Justice
+22,talent_book_8-9,Philosophies of Justice
+22,talent_book_9-10,Philosophies of Justice
+22,talent_weekly,Worldspan Fern
+23,ascension_material,Whopperflower Nectar
+23,talent_material,Whopperflower Nectar
+23,talent_book_1-2,Teachings of Justice
+23,talent_book_2-3,Guide to Justice
+23,talent_book_3-4,Guide to Justice
+23,talent_book_4-5,Guide to Justice
+23,talent_book_5-6,Guide to Justice
+23,talent_book_6-7,Philosophies of Justice
+23,talent_book_7-8,Philosophies of Justice
+23,talent_book_8-9,Philosophies of Justice
+23,talent_book_9-10,Philosophies of Justice
+23,talent_weekly,Lightless Mass
+24,ascension_material,Whopperflower Nectar
+24,talent_material,Whopperflower Nectar
+24,talent_book_1-2,Teachings of Diligence
+24,talent_book_2-3,Guide to Diligence
+24,talent_book_3-4,Guide to Diligence
+24,talent_book_4-5,Guide to Diligence
+24,talent_book_5-6,Guide to Diligence
+24,talent_book_6-7,Philosophies of Diligence
+24,talent_book_7-8,Philosophies of Diligence
+24,talent_book_8-9,Philosophies of Diligence
+24,talent_book_9-10,Philosophies of Diligence
+24,talent_weekly,Shadow of the Warrior
+25,ascension_material,Spectral Husk
+25,talent_material,Spectral Husk
+25,talent_book_1-2,Teachings of Light
+25,talent_book_2-3,Guide to Light
+25,talent_book_3-4,Guide to Light
+25,talent_book_4-5,Guide to Light
+25,talent_book_5-6,Guide to Light
+25,talent_book_6-7,Philosophies of Light
+25,talent_book_7-8,Philosophies of Light
+25,talent_book_8-9,Philosophies of Light
+25,talent_book_9-10,Philosophies of Light
+25,talent_weekly,Molten Moment
+26,ascension_material,Whopperflower Nectar
+26,talent_material,Whopperflower Nectar
+26,talent_book_1-2,Teachings of Diligence
+26,talent_book_2-3,Guide to Diligence
+26,talent_book_3-4,Guide to Diligence
+26,talent_book_4-5,Guide to Diligence
+26,talent_book_5-6,Guide to Diligence
+26,talent_book_6-7,Philosophies of Diligence
+26,talent_book_7-8,Philosophies of Diligence
+26,talent_book_8-9,Philosophies of Diligence
+26,talent_book_9-10,Philosophies of Diligence
+26,talent_weekly,Shard of a Foul Legacy
+27,ascension_material,Damaged Mask
+27,talent_material,Damaged Mask
+27,talent_book_1-2,Teachings of Resistance
+27,talent_book_2-3,Guide to Resistance
+27,talent_book_3-4,Guide to Resistance
+27,talent_book_4-5,Guide to Resistance
+27,talent_book_5-6,Guide to Resistance
+27,talent_book_6-7,Philosophies of Resistance
+27,talent_book_7-8,Philosophies of Resistance
+27,talent_book_8-9,Philosophies of Resistance
+27,talent_book_9-10,Philosophies of Resistance
+27,talent_weekly,Dvalin's Plume
+28,ascension_material,Treasure Hoarder Insignia
+28,talent_material,Treasure Hoarder Insignia
+28,talent_book_1-2,Teachings of Diligence
+28,talent_book_2-3,Guide to Diligence
+28,talent_book_3-4,Guide to Diligence
+28,talent_book_4-5,Guide to Diligence
+28,talent_book_5-6,Guide to Diligence
+28,talent_book_6-7,Philosophies of Diligence
+28,talent_book_7-8,Philosophies of Diligence
+28,talent_book_8-9,Philosophies of Diligence
+28,talent_book_9-10,Philosophies of Diligence
+28,talent_weekly,Gilded Scale
+29,ascension_material,Treasure Hoarder Insignia
+29,talent_material,Treasure Hoarder Insignia
+29,talent_book_1-2,Teachings of Ballad
+29,talent_book_2-3,Guide to Ballad
+29,talent_book_3-4,Guide to Ballad
+29,talent_book_4-5,Guide to Ballad
+29,talent_book_5-6,Guide to Ballad
+29,talent_book_6-7,Philosophies of Ballad
+29,talent_book_7-8,Philosophies of Ballad
+29,talent_book_8-9,Philosophies of Ballad
+29,talent_book_9-10,Philosophies of Ballad
+29,talent_weekly,Spirit Locket of Boreas
+30,ascension_material,Old Handguard
+30,talent_material,Old Handguard
+30,talent_book_1-2,Teachings of Elegance
+30,talent_book_2-3,Guide to Elegance
+30,talent_book_3-4,Guide to Elegance
+30,talent_book_4-5,Guide to Elegance
+30,talent_book_5-6,Guide to Elegance
+30,talent_book_6-7,Philosophies of Elegance
+30,talent_book_7-8,Philosophies of Elegance
+30,talent_book_8-9,Philosophies of Elegance
+30,talent_book_9-10,Philosophies of Elegance
+30,talent_weekly,Bloodjade Branch
+31,ascension_material,Old Handguard
+31,talent_material,Old Handguard
+31,talent_book_1-2,Teachings of Elegance
+31,talent_book_2-3,Guide to Elegance
+31,talent_book_3-4,Guide to Elegance
+31,talent_book_4-5,Guide to Elegance
+31,talent_book_5-6,Guide to Elegance
+31,talent_book_6-7,Philosophies of Elegance
+31,talent_book_7-8,Philosophies of Elegance
+31,talent_book_8-9,Philosophies of Elegance
+31,talent_book_9-10,Philosophies of Elegance
+31,talent_weekly,Mudra of the Malefic General
+32,ascension_material,Fungal Spores
+32,talent_material,Fungal Spores
+32,talent_book_1-2,Teachings of Ingenuity
+32,talent_book_2-3,Guide to Ingenuity
+32,talent_book_3-4,Guide to Ingenuity
+32,talent_book_4-5,Guide to Ingenuity
+32,talent_book_5-6,Guide to Ingenuity
+32,talent_book_6-7,Philosophies of Ingenuity
+32,talent_book_7-8,Philosophies of Ingenuity
+32,talent_book_8-9,Philosophies of Ingenuity
+32,talent_book_9-10,Philosophies of Ingenuity
+32,talent_weekly,Primordial Greenbloom
+33,ascension_material,Whopperflower Nectar
+33,talent_material,Whopperflower Nectar
+33,talent_book_1-2,Teachings of Prosperity
+33,talent_book_2-3,Guide to Prosperity
+33,talent_book_3-4,Guide to Prosperity
+33,talent_book_4-5,Guide to Prosperity
+33,talent_book_5-6,Guide to Prosperity
+33,talent_book_6-7,Philosophies of Prosperity
+33,talent_book_7-8,Philosophies of Prosperity
+33,talent_book_8-9,Philosophies of Prosperity
+33,talent_book_9-10,Philosophies of Prosperity
+33,talent_weekly,Ring of Boreas
+34,ascension_material,Spectral Husk
+34,talent_material,Spectral Husk
+34,talent_book_1-2,Teachings of Transience
+34,talent_book_2-3,Guide to Transience
+34,talent_book_3-4,Guide to Transience
+34,talent_book_4-5,Guide to Transience
+34,talent_book_5-6,Guide to Transience
+34,talent_book_6-7,Philosophies of Transience
+34,talent_book_7-8,Philosophies of Transience
+34,talent_book_8-9,Philosophies of Transience
+34,talent_book_9-10,Philosophies of Transience
+34,talent_weekly,Everamber
+35,ascension_material,Divining Scroll
+35,talent_material,Divining Scroll
+35,talent_book_1-2,Teachings of Freedom
+35,talent_book_2-3,Guide to Freedom
+35,talent_book_3-4,Guide to Freedom
+35,talent_book_4-5,Guide to Freedom
+35,talent_book_5-6,Guide to Freedom
+35,talent_book_6-7,Philosophies of Freedom
+35,talent_book_7-8,Philosophies of Freedom
+35,talent_book_8-9,Philosophies of Freedom
+35,talent_book_9-10,Philosophies of Freedom
+35,talent_weekly,Ring of Boreas
+36,ascension_material,Damaged Mask
+36,talent_material,Damaged Mask
+36,talent_book_1-2,Teachings of Elegance
+36,talent_book_2-3,Guide to Elegance
+36,talent_book_3-4,Guide to Elegance
+36,talent_book_4-5,Guide to Elegance
+36,talent_book_5-6,Guide to Elegance
+36,talent_book_6-7,Philosophies of Elegance
+36,talent_book_7-8,Philosophies of Elegance
+36,talent_book_8-9,Philosophies of Elegance
+36,talent_book_9-10,Philosophies of Elegance
+36,talent_weekly,Ashen Heart
+37,ascension_material,Spectral Husk
+37,talent_material,Spectral Husk
+37,talent_book_1-2,Teachings of Elegance
+37,talent_book_2-3,Guide to Elegance
+37,talent_book_3-4,Guide to Elegance
+37,talent_book_4-5,Guide to Elegance
+37,talent_book_5-6,Guide to Elegance
+37,talent_book_6-7,Philosophies of Elegance
+37,talent_book_7-8,Philosophies of Elegance
+37,talent_book_8-9,Philosophies of Elegance
+37,talent_book_9-10,Philosophies of Elegance
+37,talent_weekly,Tears of the Calamitous God
+38,ascension_material,Divining Scroll
+38,talent_material,Divining Scroll
+38,talent_book_1-2,Teachings of Ingenuity
+38,talent_book_2-3,Guide to Ingenuity
+38,talent_book_3-4,Guide to Ingenuity
+38,talent_book_4-5,Guide to Ingenuity
+38,talent_book_5-6,Guide to Ingenuity
+38,talent_book_6-7,Philosophies of Ingenuity
+38,talent_book_7-8,Philosophies of Ingenuity
+38,talent_book_8-9,Philosophies of Ingenuity
+38,talent_book_9-10,Philosophies of Ingenuity
+38,talent_weekly,Mirror of Mushin
+39,ascension_material,Slime Condensate
+39,talent_material,Slime Condensate
+39,talent_book_1-2,Teachings of Ballad
+39,talent_book_2-3,Guide to Ballad
+39,talent_book_3-4,Guide to Ballad
+39,talent_book_4-5,Guide to Ballad
+39,talent_book_5-6,Guide to Ballad
+39,talent_book_6-7,Philosophies of Ballad
+39,talent_book_7-8,Philosophies of Ballad
+39,talent_book_8-9,Philosophies of Ballad
+39,talent_book_9-10,Philosophies of Ballad
+39,talent_weekly,Dvalin's Claw
+40,ascension_material,Meshing Gear
+40,talent_material,Meshing Gear
+40,talent_book_1-2,Teachings of Order
+40,talent_book_2-3,Guide to Order
+40,talent_book_3-4,Guide to Order
+40,talent_book_4-5,Guide to Order
+40,talent_book_5-6,Guide to Order
+40,talent_book_6-7,Philosophies of Order
+40,talent_book_7-8,Philosophies of Order
+40,talent_book_8-9,Philosophies of Order
+40,talent_book_9-10,Philosophies of Order
+40,talent_weekly,Everamber
+41,ascension_material,Recruit's Insignia
+41,talent_material,Recruit's Insignia
+41,talent_book_1-2,Teachings of Equity
+41,talent_book_2-3,Guide to Equity
+41,talent_book_3-4,Guide to Equity
+41,talent_book_4-5,Guide to Equity
+41,talent_book_5-6,Guide to Equity
+41,talent_book_6-7,Philosophies of Equity
+41,talent_book_7-8,Philosophies of Equity
+41,talent_book_8-9,Philosophies of Equity
+41,talent_book_9-10,Philosophies of Equity
+41,talent_weekly,Primordial Greenbloom
+42,ascension_material,Recruit's Insignia
+42,talent_material,Recruit's Insignia
+42,talent_book_1-2,Teachings of Ballad
+42,talent_book_2-3,Guide to Ballad
+42,talent_book_3-4,Guide to Ballad
+42,talent_book_4-5,Guide to Ballad
+42,talent_book_5-6,Guide to Ballad
+42,talent_book_6-7,Philosophies of Ballad
+42,talent_book_7-8,Philosophies of Ballad
+42,talent_book_8-9,Philosophies of Ballad
+42,talent_book_9-10,Philosophies of Ballad
+42,talent_weekly,Mirror of Mushin
+43,ascension_material,Whopperflower Nectar
+43,talent_material,Whopperflower Nectar
+43,talent_book_1-2,Teachings of Resistance
+43,talent_book_2-3,Guide to Resistance
+43,talent_book_3-4,Guide to Resistance
+43,talent_book_4-5,Guide to Resistance
+43,talent_book_5-6,Guide to Resistance
+43,talent_book_6-7,Philosophies of Resistance
+43,talent_book_7-8,Philosophies of Resistance
+43,talent_book_8-9,Philosophies of Resistance
+43,talent_book_9-10,Philosophies of Resistance
+43,talent_weekly,Ring of Boreas
+44,ascension_material,Fungal Spores
+44,talent_material,Fungal Spores
+44,talent_book_1-2,Teachings of Ingenuity
+44,talent_book_2-3,Guide to Ingenuity
+44,talent_book_3-4,Guide to Ingenuity
+44,talent_book_4-5,Guide to Ingenuity
+44,talent_book_5-6,Guide to Ingenuity
+44,talent_book_6-7,Philosophies of Ingenuity
+44,talent_book_7-8,Philosophies of Ingenuity
+44,talent_book_8-9,Philosophies of Ingenuity
+44,talent_book_9-10,Philosophies of Ingenuity
+44,talent_weekly,Puppet Strings
+45,ascension_material,Fungal Spores
+45,talent_material,Fungal Spores
+45,talent_book_1-2,Teachings of Praxis
+45,talent_book_2-3,Guide to Praxis
+45,talent_book_3-4,Guide to Praxis
+45,talent_book_4-5,Guide to Praxis
+45,talent_book_5-6,Guide to Praxis
+45,talent_book_6-7,Philosophies of Praxis
+45,talent_book_7-8,Philosophies of Praxis
+45,talent_book_8-9,Philosophies of Praxis
+45,talent_book_9-10,Philosophies of Praxis
+45,talent_weekly,Tears of the Calamitous God
+46,ascension_material,Recruit's Insignia
+46,talent_material,Recruit's Insignia
+46,talent_book_1-2,Teachings of Prosperity
+46,talent_book_2-3,Guide to Prosperity
+46,talent_book_3-4,Guide to Prosperity
+46,talent_book_4-5,Guide to Prosperity
+46,talent_book_5-6,Guide to Prosperity
+46,talent_book_6-7,Philosophies of Prosperity
+46,talent_book_7-8,Philosophies of Prosperity
+46,talent_book_8-9,Philosophies of Prosperity
+46,talent_book_9-10,Philosophies of Prosperity
+46,talent_weekly,Spirit Locket of Boreas
+47,ascension_material,Damaged Mask
+47,talent_material,Damaged Mask
+47,talent_book_1-2,Teachings of Resistance
+47,talent_book_2-3,Guide to Resistance
+47,talent_book_3-4,Guide to Resistance
+47,talent_book_4-5,Guide to Resistance
+47,talent_book_5-6,Guide to Resistance
+47,talent_book_6-7,Philosophies of Resistance
+47,talent_book_7-8,Philosophies of Resistance
+47,talent_book_8-9,Philosophies of Resistance
+47,talent_book_9-10,Philosophies of Resistance
+47,talent_weekly,Dvalin's Claw
+48,ascension_material,Transoceanic Pearl
+48,talent_material,Transoceanic Pearl
+48,talent_book_1-2,Teachings of Equity
+48,talent_book_2-3,Guide to Equity
+48,talent_book_3-4,Guide to Equity
+48,talent_book_4-5,Guide to Equity
+48,talent_book_5-6,Guide to Equity
+48,talent_book_6-7,Philosophies of Equity
+48,talent_book_7-8,Philosophies of Equity
+48,talent_book_8-9,Philosophies of Equity
+48,talent_book_9-10,Philosophies of Equity
+48,talent_weekly,Everamber
+49,ascension_material,Divining Scroll
+49,talent_material,Divining Scroll
+49,talent_book_1-2,Teachings of Prosperity
+49,talent_book_2-3,Guide to Prosperity
+49,talent_book_3-4,Guide to Prosperity
+49,talent_book_4-5,Guide to Prosperity
+49,talent_book_5-6,Guide to Prosperity
+49,talent_book_6-7,Philosophies of Prosperity
+49,talent_book_7-8,Philosophies of Prosperity
+49,talent_book_8-9,Philosophies of Prosperity
+49,talent_book_9-10,Philosophies of Prosperity
+49,talent_weekly,Tail of Boreas
+50,ascension_material,Old Handguard
+50,talent_material,Old Handguard
+50,talent_book_1-2,Teachings of Light
+50,talent_book_2-3,Guide to Light
+50,talent_book_3-4,Guide to Light
+50,talent_book_4-5,Guide to Light
+50,talent_book_5-6,Guide to Light
+50,talent_book_6-7,Philosophies of Light
+50,talent_book_7-8,Philosophies of Light
+50,talent_book_8-9,Philosophies of Light
+50,talent_book_9-10,Philosophies of Light
+50,talent_weekly,Molten Moment
+51,ascension_material,Damaged Mask
+51,talent_material,Damaged Mask
+51,talent_book_1-2,Teachings of Resistance
+51,talent_book_2-3,Guide to Resistance
+51,talent_book_3-4,Guide to Resistance
+51,talent_book_4-5,Guide to Resistance
+51,talent_book_5-6,Guide to Resistance
+51,talent_book_6-7,Philosophies of Resistance
+51,talent_book_7-8,Philosophies of Resistance
+51,talent_book_8-9,Philosophies of Resistance
+51,talent_book_9-10,Philosophies of Resistance
+51,talent_weekly,Dvalin's Claw
+52,ascension_material,Recruit's Insignia
+52,talent_material,Recruit's Insignia
+52,talent_book_1-2,Teachings of Ballad
+52,talent_book_2-3,Guide to Ballad
+52,talent_book_3-4,Guide to Ballad
+52,talent_book_4-5,Guide to Ballad
+52,talent_book_5-6,Guide to Ballad
+52,talent_book_6-7,Philosophies of Ballad
+52,talent_book_7-8,Philosophies of Ballad
+52,talent_book_8-9,Philosophies of Ballad
+52,talent_book_9-10,Philosophies of Ballad
+52,talent_weekly,Shadow of the Warrior
+53,ascension_material,Spectral Husk
+53,talent_material,Spectral Husk
+53,talent_book_1-2,Teachings of Transience
+53,talent_book_2-3,Guide to Transience
+53,talent_book_3-4,Guide to Transience
+53,talent_book_4-5,Guide to Transience
+53,talent_book_5-6,Guide to Transience
+53,talent_book_6-7,Philosophies of Transience
+53,talent_book_7-8,Philosophies of Transience
+53,talent_book_8-9,Philosophies of Transience
+53,talent_book_9-10,Philosophies of Transience
+53,talent_weekly,Hellfire Butterfly
+54,ascension_material,Whopperflower Nectar
+54,talent_material,Whopperflower Nectar
+54,talent_book_1-2,Teachings of Light
+54,talent_book_2-3,Guide to Light
+54,talent_book_3-4,Guide to Light
+54,talent_book_4-5,Guide to Light
+54,talent_book_5-6,Guide to Light
+54,talent_book_6-7,Philosophies of Light
+54,talent_book_7-8,Philosophies of Light
+54,talent_book_8-9,Philosophies of Light
+54,talent_book_9-10,Philosophies of Light
+54,talent_weekly,Gilded Scale
+55,ascension_material,Whopperflower Nectar
+55,talent_material,Whopperflower Nectar
+55,talent_book_1-2,Teachings of Prosperity
+55,talent_book_2-3,Guide to Prosperity
+55,talent_book_3-4,Guide to Prosperity
+55,talent_book_4-5,Guide to Prosperity
+55,talent_book_5-6,Guide to Prosperity
+55,talent_book_6-7,Philosophies of Prosperity
+55,talent_book_7-8,Philosophies of Prosperity
+55,talent_book_8-9,Philosophies of Prosperity
+55,talent_book_9-10,Philosophies of Prosperity
+55,talent_weekly,Hellfire Butterfly
+56,ascension_material,Treasure Hoarder Insignia
+56,talent_material,Treasure Hoarder Insignia
+56,talent_book_1-2,Teachings of Transience
+56,talent_book_2-3,Guide to Transience
+56,talent_book_3-4,Guide to Transience
+56,talent_book_4-5,Guide to Transience
+56,talent_book_5-6,Guide to Transience
+56,talent_book_6-7,Philosophies of Transience
+56,talent_book_7-8,Philosophies of Transience
+56,talent_book_8-9,Philosophies of Transience
+56,talent_book_9-10,Philosophies of Transience
+56,talent_weekly,The Meaning of Aeons
+57,ascension_material,Whopperflower Nectar
+57,talent_material,Whopperflower Nectar
+57,talent_book_1-2,Teachings of Freedom
+57,talent_book_2-3,Guide to Freedom
+57,talent_book_3-4,Guide to Freedom
+57,talent_book_4-5,Guide to Freedom
+57,talent_book_5-6,Guide to Freedom
+57,talent_book_6-7,Philosophies of Freedom
+57,talent_book_7-8,Philosophies of Freedom
+57,talent_book_8-9,Philosophies of Freedom
+57,talent_book_9-10,Philosophies of Freedom
+57,talent_weekly,Spirit Locket of Boreas
+58,ascension_material,Recruit's Insignia
+58,talent_material,Recruit's Insignia
+58,talent_book_1-2,Teachings of Freedom
+58,talent_book_2-3,Guide to Freedom
+58,talent_book_3-4,Guide to Freedom
+58,talent_book_4-5,Guide to Freedom
+58,talent_book_5-6,Guide to Freedom
+58,talent_book_6-7,Philosophies of Freedom
+58,talent_book_7-8,Philosophies of Freedom
+58,talent_book_8-9,Philosophies of Freedom
+58,talent_book_9-10,Philosophies of Freedom
+58,talent_weekly,Shard of a Foul Legacy
+59,ascension_material,Treasure Hoarder Insignia
+59,talent_material,Treasure Hoarder Insignia
+59,talent_book_1-2,Teachings of Transience
+59,talent_book_2-3,Guide to Transience
+59,talent_book_3-4,Guide to Transience
+59,talent_book_4-5,Guide to Transience
+59,talent_book_5-6,Guide to Transience
+59,talent_book_6-7,Philosophies of Transience
+59,talent_book_7-8,Philosophies of Transience
+59,talent_book_8-9,Philosophies of Transience
+59,talent_book_9-10,Philosophies of Transience
+59,talent_weekly,Hellfire Butterfly
+60,ascension_material,Fungal Spores
+60,talent_material,Fungal Spores
+60,talent_book_1-2,Teachings of Admonition
+60,talent_book_2-3,Guide to Admonition
+60,talent_book_3-4,Guide to Admonition
+60,talent_book_4-5,Guide to Admonition
+60,talent_book_5-6,Guide to Admonition
+60,talent_book_6-7,Philosophies of Admonition
+60,talent_book_7-8,Philosophies of Admonition
+60,talent_book_8-9,Philosophies of Admonition
+60,talent_book_9-10,Philosophies of Admonition
+60,talent_weekly,The Meaning of Aeons
+61,ascension_material,Damaged Mask
+61,talent_material,Divining Scroll
+61,talent_book_1-2,Teachings of Freedom
+61,talent_book_2-3,Guide to Resistance
+61,talent_book_3-4,Guide to Ballad
+61,talent_book_4-5,Guide to Freedom
+61,talent_book_5-6,Guide to Resistance
+61,talent_book_6-7,Philosophies of Ballad
+61,talent_book_7-8,Philosophies of Freedom
+61,talent_book_8-9,Philosophies of Resistance
+61,talent_book_9-10,Philosophies of Ballad
+61,talent_weekly,Dvalin's Sigh
+62,ascension_material,Damaged Mask
+62,talent_material,Divining Scroll
+62,talent_book_1-2,Teachings of Freedom
+62,talent_book_2-3,Guide to Resistance
+62,talent_book_3-4,Guide to Ballad
+62,talent_book_4-5,Guide to Freedom
+62,talent_book_5-6,Guide to Resistance
+62,talent_book_6-7,Philosophies of Ballad
+62,talent_book_7-8,Philosophies of Freedom
+62,talent_book_8-9,Philosophies of Resistance
+62,talent_book_9-10,Philosophies of Ballad
+62,talent_weekly,Dvalin's Sigh
+63,ascension_material,Damaged Mask
+63,talent_material,Divining Scroll
+63,talent_book_1-2,Teachings of Freedom
+63,talent_book_2-3,Guide to Resistance
+63,talent_book_3-4,Guide to Ballad
+63,talent_book_4-5,Guide to Freedom
+63,talent_book_5-6,Guide to Resistance
+63,talent_book_6-7,Philosophies of Ballad
+63,talent_book_7-8,Philosophies of Freedom
+63,talent_book_8-9,Philosophies of Resistance
+63,talent_book_9-10,Philosophies of Ballad
+63,talent_weekly,Dvalin's Sigh
+64,ascension_material,Damaged Mask
+64,talent_material,Divining Scroll
+64,talent_book_1-2,Teachings of Freedom
+64,talent_book_2-3,Guide to Resistance
+64,talent_book_3-4,Guide to Ballad
+64,talent_book_4-5,Guide to Freedom
+64,talent_book_5-6,Guide to Resistance
+64,talent_book_6-7,Philosophies of Ballad
+64,talent_book_7-8,Philosophies of Freedom
+64,talent_book_8-9,Philosophies of Resistance
+64,talent_book_9-10,Philosophies of Ballad
+64,talent_weekly,Dvalin's Sigh
+65,ascension_material,Damaged Mask
+65,talent_material,Old Handguard
+65,talent_book_1-2,Teachings of Transience
+65,talent_book_2-3,Guide to Elegance
+65,talent_book_3-4,Guide to Light
+65,talent_book_4-5,Guide to Transience
+65,talent_book_5-6,Guide to Elegance
+65,talent_book_6-7,Philosophies of Light
+65,talent_book_7-8,Philosophies of Transience
+65,talent_book_8-9,Philosophies of Elegance
+65,talent_book_9-10,Philosophies of Light
+65,talent_weekly,Dragon Lord's Crown
+66,ascension_material,Damaged Mask
+66,talent_material,Old Handguard
+66,talent_book_1-2,Teachings of Transience
+66,talent_book_2-3,Guide to Elegance
+66,talent_book_3-4,Guide to Light
+66,talent_book_4-5,Guide to Transience
+66,talent_book_5-6,Guide to Elegance
+66,talent_book_6-7,Philosophies of Light
+66,talent_book_7-8,Philosophies of Transience
+66,talent_book_8-9,Philosophies of Elegance
+66,talent_book_9-10,Philosophies of Light
+66,talent_weekly,Dragon Lord's Crown
+67,ascension_material,Damaged Mask
+67,talent_material,Fungal Spores
+67,talent_book_1-2,Teachings of Admonition
+67,talent_book_2-3,Guide to Ingenuity
+67,talent_book_3-4,Guide to Praxis
+67,talent_book_4-5,Guide to Admonition
+67,talent_book_5-6,Guide to Ingenuity
+67,talent_book_6-7,Philosophies of Praxis
+67,talent_book_7-8,Philosophies of Admonition
+67,talent_book_8-9,Philosophies of Ingenuity
+67,talent_book_9-10,Philosophies of Praxis
+67,talent_weekly,Mudra of the Malefic General
+68,ascension_material,Damaged Mask
+68,talent_material,Fungal Spores
+68,talent_book_1-2,Teachings of Admonition
+68,talent_book_2-3,Guide to Ingenuity
+68,talent_book_3-4,Guide to Praxis
+68,talent_book_4-5,Guide to Admonition
+68,talent_book_5-6,Guide to Ingenuity
+68,talent_book_6-7,Philosophies of Praxis
+68,talent_book_7-8,Philosophies of Admonition
+68,talent_book_8-9,Philosophies of Ingenuity
+68,talent_book_9-10,Philosophies of Praxis
+68,talent_weekly,Mudra of the Malefic General
+69,ascension_material,Damaged Mask
+69,talent_material,Transoceanic Pearl
+69,talent_book_1-2,Teachings of Equity
+69,talent_book_2-3,Guide to Justice
+69,talent_book_3-4,Guide to Order
+69,talent_book_4-5,Guide to Equity
+69,talent_book_5-6,Guide to Justice
+69,talent_book_6-7,Philosophies of Order
+69,talent_book_7-8,Philosophies of Equity
+69,talent_book_8-9,Philosophies of Justice
+69,talent_book_9-10,Philosophies of Order
+69,talent_weekly,Worldspan Fern
+70,ascension_material,Damaged Mask
+70,talent_material,Transoceanic Pearl
+70,talent_book_1-2,Teachings of Equity
+70,talent_book_2-3,Guide to Justice
+70,talent_book_3-4,Guide to Order
+70,talent_book_4-5,Guide to Equity
+70,talent_book_5-6,Guide to Justice
+70,talent_book_6-7,Philosophies of Order
+70,talent_book_7-8,Philosophies of Equity
+70,talent_book_8-9,Philosophies of Justice
+70,talent_book_9-10,Philosophies of Order
+70,talent_weekly,Worldspan Fern
+71,ascension_material,Slime Condensate
+71,talent_material,Slime Condensate
+71,talent_book_1-2,Teachings of Ballad
+71,talent_book_2-3,Guide to Ballad
+71,talent_book_3-4,Guide to Ballad
+71,talent_book_4-5,Guide to Ballad
+71,talent_book_5-6,Guide to Ballad
+71,talent_book_6-7,Philosophies of Ballad
+71,talent_book_7-8,Philosophies of Ballad
+71,talent_book_8-9,Philosophies of Ballad
+71,talent_book_9-10,Philosophies of Ballad
+71,talent_weekly,Tail of Boreas
+72,ascension_material,Old Handguard
+72,talent_material,Old Handguard
+72,talent_book_1-2,Teachings of Praxis
+72,talent_book_2-3,Guide to Praxis
+72,talent_book_3-4,Guide to Praxis
+72,talent_book_4-5,Guide to Praxis
+72,talent_book_5-6,Guide to Praxis
+72,talent_book_6-7,Philosophies of Praxis
+72,talent_book_7-8,Philosophies of Praxis
+72,talent_book_8-9,Philosophies of Praxis
+72,talent_book_9-10,Philosophies of Praxis
+72,talent_weekly,Daka's Bell
+73,ascension_material,Meshing Gear
+73,talent_material,Meshing Gear
+73,talent_book_1-2,Teachings of Order
+73,talent_book_2-3,Guide to Order
+73,talent_book_3-4,Guide to Order
+73,talent_book_4-5,Guide to Order
+73,talent_book_5-6,Guide to Order
+73,talent_book_6-7,Philosophies of Order
+73,talent_book_7-8,Philosophies of Order
+73,talent_book_8-9,Philosophies of Order
+73,talent_book_9-10,Philosophies of Order
+73,talent_weekly,Primordial Greenbloom
+74,ascension_material,Slime Condensate
+74,talent_material,Slime Condensate
+74,talent_book_1-2,Teachings of Diligence
+74,talent_book_2-3,Guide to Diligence
+74,talent_book_3-4,Guide to Diligence
+74,talent_book_4-5,Guide to Diligence
+74,talent_book_5-6,Guide to Diligence
+74,talent_book_6-7,Philosophies of Diligence
+74,talent_book_7-8,Philosophies of Diligence
+74,talent_book_8-9,Philosophies of Diligence
+74,talent_book_9-10,Philosophies of Diligence
+74,talent_weekly,Dvalin's Claw
+75,ascension_material,Slime Condensate
+75,talent_material,Slime Condensate
+75,talent_book_1-2,Teachings of Prosperity
+75,talent_book_2-3,Guide to Prosperity
+75,talent_book_3-4,Guide to Prosperity
+75,talent_book_4-5,Guide to Prosperity
+75,talent_book_5-6,Guide to Prosperity
+75,talent_book_6-7,Philosophies of Prosperity
+75,talent_book_7-8,Philosophies of Prosperity
+75,talent_book_8-9,Philosophies of Prosperity
+75,talent_book_9-10,Philosophies of Prosperity
+75,talent_weekly,Shadow of the Warrior
+76,ascension_material,Damaged Mask
+76,talent_material,Damaged Mask
+76,talent_book_1-2,Teachings of Gold
+76,talent_book_2-3,Guide to Gold
+76,talent_book_3-4,Guide to Gold
+76,talent_book_4-5,Guide to Gold
+76,talent_book_5-6,Guide to Gold
+76,talent_book_6-7,Philosophies of Gold
+76,talent_book_7-8,Philosophies of Gold
+76,talent_book_8-9,Philosophies of Gold
+76,talent_book_9-10,Philosophies of Gold
+76,talent_weekly,Tail of Boreas
+77,ascension_material,Treasure Hoarder Insignia
+77,talent_material,Treasure Hoarder Insignia
+77,talent_book_1-2,Teachings of Gold
+77,talent_book_2-3,Guide to Gold
+77,talent_book_3-4,Guide to Gold
+77,talent_book_4-5,Guide to Gold
+77,talent_book_5-6,Guide to Gold
+77,talent_book_6-7,Philosophies of Gold
+77,talent_book_7-8,Philosophies of Gold
+77,talent_book_8-9,Philosophies of Gold
+77,talent_book_9-10,Philosophies of Gold
+77,talent_weekly,Tusk of Monoceros Caeli
+78,ascension_material,Old Handguard
+78,talent_material,Old Handguard
+78,talent_book_1-2,Teachings of Light
+78,talent_book_2-3,Guide to Light
+78,talent_book_3-4,Guide to Light
+78,talent_book_4-5,Guide to Light
+78,talent_book_5-6,Guide to Light
+78,talent_book_6-7,Philosophies of Light
+78,talent_book_7-8,Philosophies of Light
+78,talent_book_8-9,Philosophies of Light
+78,talent_book_9-10,Philosophies of Light
+78,talent_weekly,The Meaning of Aeons
+79,ascension_material,Treasure Hoarder Insignia
+79,talent_material,Treasure Hoarder Insignia
+79,talent_book_1-2,Teachings of Gold
+79,talent_book_2-3,Guide to Gold
+79,talent_book_3-4,Guide to Gold
+79,talent_book_4-5,Guide to Gold
+79,talent_book_5-6,Guide to Gold
+79,talent_book_6-7,Philosophies of Gold
+79,talent_book_7-8,Philosophies of Gold
+79,talent_book_8-9,Philosophies of Gold
+79,talent_book_9-10,Philosophies of Gold
+79,talent_weekly,Bloodjade Branch
+80,ascension_material,Slime Condensate
+80,talent_material,Slime Condensate
+80,talent_book_1-2,Teachings of Diligence
+80,talent_book_2-3,Guide to Diligence
+80,talent_book_3-4,Guide to Diligence
+80,talent_book_4-5,Guide to Diligence
+80,talent_book_5-6,Guide to Diligence
+80,talent_book_6-7,Philosophies of Diligence
+80,talent_book_7-8,Philosophies of Diligence
+80,talent_book_8-9,Philosophies of Diligence
+80,talent_book_9-10,Philosophies of Diligence
+80,talent_weekly,Daka's Bell
+81,ascension_material,Recruit's Insignia
+81,talent_material,Recruit's Insignia
+81,talent_book_1-2,Teachings of Prosperity
+81,talent_book_2-3,Guide to Prosperity
+81,talent_book_3-4,Guide to Prosperity
+81,talent_book_4-5,Guide to Prosperity
+81,talent_book_5-6,Guide to Prosperity
+81,talent_book_6-7,Philosophies of Prosperity
+81,talent_book_7-8,Philosophies of Prosperity
+81,talent_book_8-9,Philosophies of Prosperity
+81,talent_book_9-10,Philosophies of Prosperity
+81,talent_weekly,Gilded Scale
+82,ascension_material,Divining Scroll
+82,talent_material,Divining Scroll
+82,talent_book_1-2,Teachings of Transience
+82,talent_book_2-3,Guide to Transience
+82,talent_book_3-4,Guide to Transience
+82,talent_book_4-5,Guide to Transience
+82,talent_book_5-6,Guide to Transience
+82,talent_book_6-7,Philosophies of Transience
+82,talent_book_7-8,Philosophies of Transience
+82,talent_book_8-9,Philosophies of Transience
+82,talent_book_9-10,Philosophies of Transience
+82,talent_weekly,Dragon Lord's Crown
+83,ascension_material,Damaged Mask
+83,talent_material,Damaged Mask
+83,talent_book_1-2,Teachings of Diligence
+83,talent_book_2-3,Guide to Diligence
+83,talent_book_3-4,Guide to Diligence
+83,talent_book_4-5,Guide to Diligence
+83,talent_book_5-6,Guide to Diligence
+83,talent_book_6-7,Philosophies of Diligence
+83,talent_book_7-8,Philosophies of Diligence
+83,talent_book_8-9,Philosophies of Diligence
+83,talent_book_9-10,Philosophies of Diligence
+83,talent_weekly,Ashen Heart
+84,ascension_material,Slime Condensate
+84,talent_material,Slime Condensate
+84,talent_book_1-2,Teachings of Gold
+84,talent_book_2-3,Guide to Gold
+84,talent_book_3-4,Guide to Gold
+84,talent_book_4-5,Guide to Gold
+84,talent_book_5-6,Guide to Gold
+84,talent_book_6-7,Philosophies of Gold
+84,talent_book_7-8,Philosophies of Gold
+84,talent_book_8-9,Philosophies of Gold
+84,talent_book_9-10,Philosophies of Gold
+84,talent_weekly,Tusk of Monoceros Caeli

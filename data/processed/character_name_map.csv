@@ -1,0 +1,85 @@
+character_id,character_name
+1,Albedo
+2,Alhaitham
+3,Aloy
+4,Amber
+5,Arataki Itto
+6,Baizhu
+7,Barbara
+8,Beidou
+9,Bennett
+10,Candace
+11,Charlotte
+12,Chongyun
+13,Collei
+14,Cyno
+15,Dehya
+16,Diluc
+17,Diona
+18,Dori
+19,Eula
+20,Faruzan
+21,Fischl
+22,Freminet
+23,Furina
+24,Ganyu
+25,Gorou
+26,Hu Tao
+27,Jean
+28,Kaedehara Kazuha
+29,Kaeya
+30,Kamisato Ayaka
+31,Kamisato Ayato
+32,Kaveh
+33,Keqing
+34,Kirara
+35,Klee
+36,Kujou Sara
+37,Kuki Shinobu
+38,Layla
+39,Lisa
+40,Lynette
+41,Lyney
+42,Mika
+43,Mona
+44,Nahida
+46,Nilou
+47,Ningguang
+48,Noelle
+45,Neuvillette
+49,Qiqi
+50,Raiden Shogun
+51,Razor
+52,Rosaria
+53,Sangonomiya Kokomi
+54,Sayu
+55,Shenhe
+56,Shikanoin Heizou
+57,Sucrose
+58,Tartaglia
+59,Thoma
+60,Tighnari
+61,"Traveler (Aether, Anemo)"
+66,"Traveler (Lumine, Anemo)"
+64,"Traveler (Aether, Geo)"
+69,"Traveler (Lumine, Geo)"
+63,"Traveler (Aether, Electro)"
+68,"Traveler (Lumine, Electro)"
+62,"Traveler (Aether, Dendro)"
+67,"Traveler (Lumine, Dendro)"
+65,"Traveler (Aether, Hydro)"
+70,"Traveler (Lumine, Hydro)"
+71,Venti
+72,Wanderer
+73,Wriothesley
+74,Xiangling
+75,Xiao
+76,Xingqiu
+77,Xinyan
+78,Yae Miko
+79,Yanfei
+80,Yaoyao
+81,Yelan
+82,Yoimiya
+83,Yun Jin
+84,Zhongli

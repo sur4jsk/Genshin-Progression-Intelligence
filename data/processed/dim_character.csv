@@ -1,0 +1,85 @@
+character_id,character_name,rarity,vision,weapon_type,region,model,release_date,birthday,limited
+1,Albedo,5,Geo,Sword,Mondstadt,Medium Male,2020-12-23,2022-09-13,False
+2,Alhaitham,5,Dendro,Sword,Sumeru,Tall Male,2023-01-18,2023-02-11,False
+3,Aloy,5,Cryo,Bow,Unknown,Medium Female,2021-09-01,2022-04-04,False
+4,Amber,4,Pyro,Bow,Mondstadt,Medium Female,2020-09-28,2022-08-10,False
+5,Arataki Itto,5,Geo,Claymore,Inazuma,Tall Male,2021-12-14,2022-06-01,False
+6,Baizhu,5,Dendro,Catalyst,Liyue,Tall Male,2023-05-02,2023-04-25,False
+7,Barbara,4,Hydro,Catalyst,Mondstadt,Medium Female,2020-09-28,2022-07-05,False
+8,Beidou,4,Electro,Claymore,Liyue,Tall Female,2020-09-28,2022-02-14,False
+9,Bennett,4,Pyro,Sword,Mondstadt,Medium Male,2020-09-28,2029-02-01,False
+10,Candace,4,Hydro,Polearm,Sumeru,Tall Female,2022-09-28,2022-05-03,False
+11,Charlotte,4,Cryo,Catalyst,Fontaine,Medium Female,2023-11-08,2023-04-10,False
+12,Chongyun,4,Cryo,Claymore,Liyue,Medium Male,2020-09-28,2022-09-07,False
+13,Collei,4,Dendro,Bow,Sumeru,Medium Female,2022-08-24,2022-05-08,False
+14,Cyno,5,Electro,Polearm,Sumeru,Medium Male,2022-09-28,2022-06-23,False
+15,Dehya,5,Pyro,Claymore,Sumeru,Tall Female,2023-03-01,2023-04-07,False
+16,Diluc,5,Pyro,Claymore,Mondstadt,Tall Male,2020-09-28,2022-04-30,False
+17,Diona,4,Cryo,Bow,Mondstadt,Short Female,2020-11-11,2022-01-18,False
+18,Dori,4,Electro,Claymore,Sumeru,Short Female,2022-09-09,2022-12-21,False
+19,Eula,5,Cryo,Claymore,Mondstadt,Tall Female,2021-05-18,2022-10-25,False
+20,Faruzan,4,Anemo,Bow,Sumeru,Medium Female,2023-12-07,2023-08-20,False
+21,Fischl,4,Electro,Bow,Mondstadt,Medium Female,2020-09-28,2022-05-27,False
+22,Freminet,4,Cryo,Claymore,Fontaine,Medium Male,2023-09-05,2023-09-24,False
+23,Furina,5,Hydro,Sword,Fontaine,Medium Female,2023-11-08,2023-10-13,False
+24,Ganyu,5,Cryo,Bow,Liyue,Medium Female,2021-01-12,2022-12-02,False
+25,Gorou,4,Geo,Bow,Inazuma,Medium Male,2021-12-14,2022-05-18,False
+26,Hu Tao,5,Pyro,Polearm,Liyue,Medium Female,2021-03-02,2022-07-15,False
+27,Jean,5,Anemo,Sword,Mondstadt,Tall Female,2020-09-28,2022-03-14,False
+28,Kaedehara Kazuha,5,Anemo,Sword,Inazuma,Medium Male,2021-06-29,2022-10-29,False
+29,Kaeya,4,Cryo,Sword,Mondstadt,Tall Male,2020-09-28,2022-11-30,False
+30,Kamisato Ayaka,5,Cryo,Sword,Inazuma,Medium Female,2021-07-21,2022-09-28,False
+31,Kamisato Ayato,5,Hydro,Sword,Inazuma,Tall Male,2022-04-30,2022-03-26,False
+32,Kaveh,4,Dendro,Claymore,Sumeru,Tall Male,2023-05-02,2023-07-09,False
+33,Keqing,5,Electro,Sword,Liyue,Medium Female,2020-09-28,2022-11-20,False
+34,Kirara,4,Dendro,Sword,Inazuma,Medium Female,2023-05-24,2023-01-22,False
+35,Klee,5,Pyro,Catalyst,Mondstadt,Short Female,2020-10-20,2022-07-27,False
+36,Kujou Sara,4,Electro,Bow,Inazuma,Tall Female,2021-09-01,2022-07-14,False
+37,Kuki Shinobu,4,Electro,Sword,Inazuma,Medium Female,2022-06-21,2022-07-27,False
+38,Layla,4,Cryo,Sword,Sumeru,Medium Female,2022-11-18,2023-12-19,False
+39,Lisa,4,Electro,Catalyst,Mondstadt,Tall Female,2020-09-28,2022-06-09,False
+40,Lynette,4,Anemo,Sword,Fontaine,Medium Female,2023-08-16,2023-02-02,False
+41,Lyney,5,Pyro,Bow,Fontaine,Medium Male,2023-08-16,2023-02-02,False
+42,Mika,4,Cryo,Polearm,Mondstadt,Medium Male,2023-03-21,2023-08-11,False
+43,Mona,5,Hydro,Catalyst,Mondstadt,Medium Female,2020-09-28,2022-08-31,False
+44,Nahida,5,Dendro,Catalyst,Sumeru,Short Female,2022-11-02,2023-10-27,False
+45,Neuvillette,5,Hydro,Catalyst,Fontaine,Tall Male,2023-09-27,2023-12-18,False
+46,Nilou,5,Hydro,Sword,Sumeru,Medium Female,2022-10-14,2022-12-03,False
+47,Ningguang,4,Geo,Catalyst,Liyue,Tall Female,2020-09-28,2022-08-26,False
+48,Noelle,4,Geo,Claymore,Mondstadt,Medium Female,2020-09-28,2022-03-21,False
+49,Qiqi,5,Cryo,Sword,Liyue,Short Female,2020-09-28,2022-03-03,False
+50,Raiden Shogun,5,Electro,Polearm,Inazuma,Tall Female,2021-09-01,2022-06-26,False
+51,Razor,4,Electro,Claymore,Mondstadt,Medium Male,2020-09-28,2022-09-09,False
+52,Rosaria,4,Cryo,Polearm,Mondstadt,Tall Female,2021-04-06,2022-01-24,False
+53,Sangonomiya Kokomi,5,Hydro,Catalyst,Inazuma,Medium Female,2021-09-21,2022-02-22,False
+54,Sayu,4,Anemo,Claymore,Inazuma,Short Female,2021-08-10,2022-10-19,False
+55,Shenhe,5,Cryo,Polearm,Liyue,Tall Female,2022-01-05,2022-03-10,False
+56,Shikanoin Heizou,4,Anemo,Catalyst,Inazuma,Medium Male,2022-07-13,2022-07-24,False
+57,Sucrose,4,Anemo,Catalyst,Mondstadt,Medium Female,2020-09-28,2022-09-26,False
+58,Tartaglia,5,Hydro,Bow,Snezhnaya,Tall Male,2020-11-11,2022-07-20,False
+59,Thoma,4,Pyro,Polearm,Inazuma,Tall Male,2021-10-02,2022-01-09,False
+60,Tighnari,5,Dendro,Bow,Sumeru,Medium Male,2022-08-24,2022-12-29,False
+61,"Traveler (Aether, Anemo)",5,Anemo,Sword,Unknown,Medium Male,2020-09-28,,False
+62,"Traveler (Aether, Dendro)",5,Dendro,Sword,Unknown,Medium Male,2022-08-23,,False
+63,"Traveler (Aether, Electro)",5,Electro,Sword,Unknown,Medium Male,2021-07-21,,False
+64,"Traveler (Aether, Geo)",5,Geo,Sword,Unknown,Medium Male,2020-09-28,,False
+65,"Traveler (Aether, Hydro)",5,Hydro,Sword,Unknown,Medium Male,2023-08-16,,False
+66,"Traveler (Lumine, Anemo)",5,Anemo,Sword,Unknown,Medium Female,2020-09-28,,False
+67,"Traveler (Lumine, Dendro)",5,Dendro,Sword,Unknown,Medium Female,2022-08-23,,False
+68,"Traveler (Lumine, Electro)",5,Electro,Sword,Unknown,Medium Female,2021-07-21,,False
+69,"Traveler (Lumine, Geo)",5,Geo,Sword,Unknown,Medium Female,2020-09-28,,False
+70,"Traveler (Lumine, Hydro)",5,Hydro,Sword,Unknown,Medium Female,2023-08-16,,False
+71,Venti,5,Anemo,Bow,Mondstadt,Medium Male,2020-09-28,2022-06-16,False
+72,Wanderer,5,Anemo,Catalyst,Sumeru,Medium Male,2022-12-07,2023-01-03,False
+73,Wriothesley,5,Cryo,Catalyst,Fontaine,Tall Male,2023-10-17,2023-11-23,False
+74,Xiangling,4,Pyro,Polearm,Liyue,Medium Female,2020-09-28,2022-11-02,False
+75,Xiao,5,Anemo,Polearm,Liyue,Medium Male,2021-02-03,2022-04-17,False
+76,Xingqiu,4,Hydro,Sword,Liyue,Medium Male,2020-09-28,2022-10-09,False
+77,Xinyan,4,Pyro,Claymore,Liyue,Medium Female,2020-12-01,2022-10-16,False
+78,Yae Miko,5,Electro,Catalyst,Inazuma,Tall Female,2022-02-16,2022-06-27,False
+79,Yanfei,4,Pyro,Catalyst,Liyue,Medium Female,2021-04-28,2022-07-28,False
+80,Yaoyao,4,Dendro,Polearm,Liyue,Short Female,2023-01-18,2023-03-06,False
+81,Yelan,5,Hydro,Bow,Liyue,Tall Female,2022-05-31,2022-04-20,False
+82,Yoimiya,5,Pyro,Bow,Inazuma,Medium Female,2021-08-10,2022-06-21,False
+83,Yun Jin,4,Geo,Polearm,Liyue,Medium Female,2022-01-05,2022-05-21,False
+84,Zhongli,5,Geo,Polearm,Liyue,Tall Male,2020-12-01,2022-12-31,False
